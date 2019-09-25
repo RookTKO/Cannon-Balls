@@ -1,6 +1,2 @@
-*.yy linguist-language=Game Maker Language
-Configs/** export-ignore
-sprites/** export-ignore
-sound/** export-ignore
-fonts/** export-ignore
-background/** export-ignore
+*.xml linguist-language=Game Maker Language
+
