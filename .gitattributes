@@ -1,2 +1,6 @@
 *.yy linguist-language=Game Maker Language
 Configs/Default/windows/RunnerInstaller.nsi export-ignore
+sprites/ export-ignore
+sound/ export-ignore
+fonts/ export-ignore
+background/ export-ignore
