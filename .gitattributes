@@ -2,9 +2,3 @@
 Configs/ linguist-detectable=false
 Configs/** linguist-detectable=false
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-*.nsi
